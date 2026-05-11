@@ -56,7 +56,7 @@ I build data-driven solutions using SQL, Python, Excel, and Power BI to transfor
 
 ---
 
-# 📊 Featured Projects
+## 📊 Featured Projects 
 
 ## 🚗 Fleet Fuel Performance Dashboard
 Built an interactive Power BI dashboard to analyze:
@@ -107,21 +107,21 @@ SQL • PostgreSQL
 ## 📊 Dashboard Previews
 
 ### Executive Overview
-<img width="700" alt="Executive Overview" src=<img width="772" height="444" alt="Executive Overview" src="https://github.com/user-attachments/assets/a55a33f1-1cc4-449e-bda3-2beb5e1650b6" />
- />
+<img width="772" height="444" alt="Executive Overview" src="https://github.com/user-attachments/assets/a55a33f1-1cc4-449e-bda3-2beb5e1650b6" />
+
 
 ### Operational Analytics Dashboard
-<img width="700" alt="Operational Analytics" src=<img width="776" height="444" alt="Operational-Analytics" src="https://github.com/user-attachments/assets/c691b0b0-e32f-415b-b284-a31be4cee1da" /> />
+<img width="776" height="444" alt="Operational-Analytics" src="https://github.com/user-attachments/assets/c691b0b0-e32f-415b-b284-a31be4cee1da" />
 
 ### Excel Performance Dashboard
-<img width="700" alt="Excel Dashboard" src=<img width="1162" height="570" alt="performance dashboard with excel" src="https://github.com/user-attachments/assets/0e37330c-279e-4c35-a369-77745d1b7dd1" />
- />
+<img width="1162" height="570" alt="performance dashboard with excel" src="https://github.com/user-attachments/assets/0e37330c-279e-4c35-a369-77745d1b7dd1" />
+
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/precious-eric-52834b168
+- 💼 LinkedIn: https://www.linkedin.com/in/precious-eric-52834b168
 - 📧 Email: ericprecious284@gmail.com
 
 ---
