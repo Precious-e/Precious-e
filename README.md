@@ -106,9 +106,11 @@ SQL • PostgreSQL
 
 ## 📊 Dashboard Previews
 
+### Airport Dashboard
+<img width="894" height="495" alt="AIRPORT DASHBOARD PNG" src="https://github.com/user-attachments/assets/6e78a6e6-619d-4f39-907d-75506e98b533" />
+
 ### Executive Overview
 <img width="772" height="444" alt="Executive Overview" src="https://github.com/user-attachments/assets/a55a33f1-1cc4-449e-bda3-2beb5e1650b6" />
-
 
 ### Operational Analytics Dashboard
 <img width="776" height="444" alt="Operational-Analytics" src="https://github.com/user-attachments/assets/c691b0b0-e32f-415b-b284-a31be4cee1da" />
